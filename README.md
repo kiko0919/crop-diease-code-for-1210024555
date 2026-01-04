@@ -38,7 +38,7 @@ Requirements: software
   - Storage: 1TB SSD
   - Camera: Logitech C920 (1080P resolution)
 
-
+datestet at yolo_cropDisease_detection_flask/dataset
 
 
     Preparation for Testing
